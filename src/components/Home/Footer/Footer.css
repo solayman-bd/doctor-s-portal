@@ -19,3 +19,8 @@
   background-color: #6acece;
   color: white;
 }
+.icon:hover {
+  color: red;
+  transform: rotate(20deg);
+  transform: scaleY(0.9);
+}
