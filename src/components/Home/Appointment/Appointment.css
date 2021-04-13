@@ -5,6 +5,9 @@
   position: relative;
   height: 420px;
   background-position: center center;
+
+  margin-top: 7rem;
+  margin-bottom: 5rem;
 }
 
 .make-appointment::before {

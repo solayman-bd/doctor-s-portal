@@ -35,8 +35,8 @@ const Services = () => {
           ))}
         </div>
       </div>
-      <div className="d-flex justify-content-center mt-5">
-        <div className="w-75 mt-5 pt-5">
+      <div className="d-flex justify-content-center my-5">
+        <div className="w-75 my-5 py-5">
           <ExceptionalServices></ExceptionalServices>
         </div>
       </div>

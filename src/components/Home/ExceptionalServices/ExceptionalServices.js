@@ -1,9 +1,10 @@
 import React from "react";
 import exceptImg from "../../../images/exceptionalServices.png";
+import "./ExceptionalServices.css";
 
 const ExceptionalServices = () => {
   return (
-    <div className="row">
+    <div className="row service-container">
       <div className="col-md-5">
         <img className="img-fluid" src={exceptImg} alt="" />
       </div>
@@ -19,7 +20,7 @@ const ExceptionalServices = () => {
           temporibus officiis ea, similique ab explicabo consectetur debitis
           nobis, rem accusantium laudantium assumenda.
         </p>
-        <button className="btn-primary mt-2">Book Now</button>
+        <button className="btn-primary my-2">Book Now</button>
       </div>
     </div>
   );

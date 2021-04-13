@@ -5,7 +5,7 @@ import "./Appointment.css";
 const Appointment = () => {
   return (
     <section className="make-appointment">
-      <div className="container">
+      <div className="container ">
         <div className="row">
           <div className="col-md-5 d-none d-md-block">
             <img src={doctorImg} alt="" />
