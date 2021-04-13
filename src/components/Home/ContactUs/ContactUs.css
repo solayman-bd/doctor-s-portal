@@ -1,0 +1,20 @@
+#contact-us {
+  background-image: url("../../../images/appointmentBg.png");
+  background-repeat: no-repeat;
+  /* background-size: 100% 100%; */
+  position: relative;
+}
+#contact-us::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: rgb(36, 41, 73);
+  opacity: 0.8;
+  top: 0;
+}
+.indexing {
+  position: relative;
+  z-index: 500;
+}

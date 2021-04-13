@@ -11,7 +11,7 @@ const blogData = [
     description:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ",
     author: "Dr. Cudi",
-    authorImg: wilson,
+    authorImg: mafia,
     date: "23 April 2019",
   },
   {
@@ -27,7 +27,7 @@ const blogData = [
     description:
       "Lorem ipsum dolor sit amet consectetur, adipisicing fkdjf ejfkne ajriejnfsdah kjfia  elit. Ea,dkfk lfkokdor placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ",
     author: "Dr. Cudi",
-    authorImg: mafia,
+    authorImg: wilson,
     date: "23 April 2019",
   },
 ];
