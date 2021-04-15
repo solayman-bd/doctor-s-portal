@@ -1,10 +1,9 @@
 import React from "react";
-import Appointment from "../Appointment/Appointment";
-
+import Footer from "../../Shared/Footer/Footer";
 import Blogs from "../Blogs/Blogs";
 import ContactUs from "../ContactUs/ContactUs";
-import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
+import MakeAppointment from "../MakeAppointment/MakeAppointment";
 import OurDoctors from "../OurDoctors/OurDoctors";
 import Services from "../Services/Services";
 import Testimonial from "../Testimonial/Testimonial";
@@ -14,7 +13,7 @@ const Home = () => {
     <div style={{ maxWidth: "100%", width: "98%" }}>
       <Header></Header>
       <Services></Services>
-      <Appointment></Appointment>
+      <MakeAppointment></MakeAppointment>
       <Testimonial></Testimonial>
       <Blogs></Blogs>
       <OurDoctors></OurDoctors>

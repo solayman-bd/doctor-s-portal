@@ -10,6 +10,7 @@ import {
 
 const Footer = () => {
   const noNamed = [
+    { menuTitle: "." },
     { name: "Emergency Dental Care", link: "/emergency" },
     { name: "Check Up", link: "/checkup" },
     { name: "Treatment of Personal Diseases", link: "/personal-treatment" },
